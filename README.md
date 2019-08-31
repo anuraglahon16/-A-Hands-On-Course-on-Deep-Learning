@@ -1,1 +1,1 @@
-# A Hands On Course on Deep Learning
+# A Hands  on Deep Learning
